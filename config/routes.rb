@@ -19,7 +19,7 @@ Rails.application.routes.draw do
   resources :favorites, only: [:create, :destroy]
 
   
-  #get "users/:id/likes" => "microposts#favoritings"
+  #get "users/:id/likes" => "users#likes"
   #resources :likes, only: [:create, :destroy]
   
 end
