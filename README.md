@@ -1,12 +1,12 @@
 # README：）
 
-## 📱　AppName "Findfamfam"
+## 📱　AppName "Twitter Clone"
  
-"Twitter Clone" is a comment posting service with Ruby / 「TwitterClone」はRubyを用いたコメント投稿サービスです
+"Twitter Clone" is a comment posting service with Ruby / 「TwitterClone」 はRubyを用いたコメント投稿サービスです
  
 ## ❗️　Features / 特徴
  
-Findfamfam can recruit homemates or run for homemates / Findfamfamは同居人を募集したり、同居人に立候補することができます
+"Twitter Clone" can launch your current feelings to the world / 「Twitter Clone」 は自分の今の感情を世界に発進することができます
  
 ## 🔨　Requirement / 使用ツール
 
@@ -15,8 +15,8 @@ Ruby version: Rails 5.2.4.2
 ## 📗　Usage / 使用方法
 
 1. Register and log in / ユーザー登録をしてログインをしよう  
-2. Request a cohabitation request and wait for approval / 募集に同居リクエストをして承認を待とう  
-3. Recruit and collect people living together / 募集をかけて同居人を集めよう  
+2. Let's post a word / 一言を投稿しよう  
+3. Let's like everyone's words / 募みんなの一言にいいね！してみよう  
  
 ## ☔️　Note / 注意点
  
