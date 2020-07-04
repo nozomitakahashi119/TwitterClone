@@ -16,7 +16,7 @@ Ruby version: Rails 5.2.4.2
 
 1. Register and log in / ユーザー登録をしてログインをしよう  
 2. Let's post a word / 一言を投稿しよう  
-3. Let's like everyone's words / 募みんなの一言にいいね！してみよう  
+3. Let's like everyone's words / みんなの一言にいいね！してみよう  
  
 ## ☔️　Note / 注意点
  
